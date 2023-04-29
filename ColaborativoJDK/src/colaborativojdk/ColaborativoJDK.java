@@ -22,7 +22,11 @@ public class ColaborativoJDK {
         n3=entrada.nextDouble();
 
         prom=(n1+n2+n3)/3;
-        
+        if(prom<12){
+            System.out.println("el alumno aprobo");
+        }else{
+            System.out.println("el alumno desaprobo");
+        }
         System.out.println("Promedio general es : " + prom);
 
         entrada.close();    
