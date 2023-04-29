@@ -14,21 +14,18 @@ public class ColaborativoJDK {
         
         double n1,n2,n3, prom;
         
-        System.out.println("ingrese primera nota :");
+        System.out.print("ingrese primera nota: ");
         n1=entrada.nextDouble();
-        System.out.println("Ingrese 2da nota");
+        System.out.print("Ingrese 2da nota: ");
         n2=entrada.nextDouble();
-        System.out.println("Ingrese 3era nota");
+        System.out.print("Ingrese 3era nota: ");
         n3=entrada.nextDouble();
 
         prom=(n1+n2+n3)/3;
         
-        System.out.println("Promedio general"+prom );
-        
-        
-        
-        
-        
+        System.out.println("Promedio general es : " + prom);
+
+        entrada.close();    
         
         
         
