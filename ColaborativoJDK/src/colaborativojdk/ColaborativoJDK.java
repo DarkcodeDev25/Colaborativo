@@ -8,8 +8,11 @@ public class ColaborativoJDK {
 
 
     public static void main(String[] args) {
-        System.out.println("hola nakamas");
-        System.out.println("Hola Angelion");
+        int n1,n2,n3;
+        double prom;
+        System.out.println("ingrese primera nota :");
+        
+
     }
     
 }
