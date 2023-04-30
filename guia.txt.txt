@@ -1,0 +1,6 @@
+//teamRonald
+--en esta carpeta trabajaremos en equipo para realizar
+--nuestra primera paguina web como programadores 
+--profesionales que somos.
+
+--***
